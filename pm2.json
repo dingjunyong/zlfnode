@@ -1,0 +1,15 @@
+{
+  "apps": [{
+    "name": "website",
+    "script": "production.js",
+    "cwd": "/Users/adks/zlfnode/website",
+    "exec_mode": "fork",
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+      
+    }
+  }]
+}
